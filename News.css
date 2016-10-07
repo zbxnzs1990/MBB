@@ -1,0 +1,11 @@
+*{padding:0;margin:0;}
+.content{width:70%;min-height:1000px;margin:0 auto;padding:30px 60px;font-family:Arial, Helvetica, sans-serif;background-color:#EEE;}
+.content p{line-height:30px;margin-top:15px;}
+h2{background:#CCC;color:#03C;margin:15px auto;padding:4px 10px;}
+.content .bold{font-weight:bold;font-size:18px;margin-top:20px;}
+.content a:link{color:#03C;}
+.content a:visited{color:#03C;}
+.content a:hover{text-decoration:underline;}
+
+#nav .title11 a:visited{color:#999;}
+.content .news{float:right;margin-left:20px;}

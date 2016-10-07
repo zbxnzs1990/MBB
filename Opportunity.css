@@ -1,0 +1,13 @@
+*{padding:0;margin:0;}
+.content{width:70%;margin:0 auto;padding:40px 60px;font-family:Arial, Helvetica, sans-serif;background-color:#EEE;}
+.content p{line-height:30px;}
+.content .top{font-size:17px;}
+h2{background:#CCC;color:#03C;margin:15px auto;padding:4px 10px;}
+.content .cotct{margin-left:50px;margin-top:15px;margin-bottom:15px;}
+.content .pho p{margin-top:15px;margin-bottom:15px;}
+.content a:link{color:#03C;}
+.content a:visited{color:#03C;}
+.content a:hover{text-decoration:underline;}
+.wyp{font-weight:bold;}
+.italic{font-style:italic;}
+#nav .title0 a:visited{color:#999;}
